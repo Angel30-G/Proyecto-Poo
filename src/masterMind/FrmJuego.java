@@ -167,7 +167,7 @@ public class FrmJuego extends javax.swing.JFrame {
             }
         });
 
-        jPanel1.setBackground(new java.awt.Color(102, 255, 51));
+        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jButton1.setText("Enviar");
@@ -178,7 +178,7 @@ public class FrmJuego extends javax.swing.JFrame {
         });
         jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 640, 160, 50));
 
-        jPanel2.setBackground(new java.awt.Color(102, 0, 102));
+        jPanel2.setBackground(new java.awt.Color(255, 102, 51));
 
         jRadioAzul.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -233,7 +233,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 600, 540, 40));
 
-        jPanel3.setBackground(new java.awt.Color(0, 153, 153));
+        jPanel3.setBackground(new java.awt.Color(255, 102, 51));
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
@@ -263,7 +263,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 0, 540, 40));
 
-        jPanel4.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel4.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
         jPanel4.setLayout(jPanel4Layout);
@@ -294,7 +294,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 500, 540, 40));
 
-        jPanel5.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel5.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
         jPanel5.setLayout(jPanel5Layout);
@@ -309,7 +309,7 @@ public class FrmJuego extends javax.swing.JFrame {
                 .addComponent(jRadiorojo2)
                 .addGap(2, 2, 2)
                 .addComponent(jRadioAmarillo2)
-                .addContainerGap(403, Short.MAX_VALUE))
+                .addContainerGap(431, Short.MAX_VALUE))
         );
         jPanel5Layout.setVerticalGroup(
             jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -325,7 +325,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 450, 540, 40));
 
-        jPanel6.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel6.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
         jPanel6.setLayout(jPanel6Layout);
@@ -356,7 +356,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 400, 540, 40));
 
-        jPanel8.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel8.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel8Layout = new javax.swing.GroupLayout(jPanel8);
         jPanel8.setLayout(jPanel8Layout);
@@ -387,7 +387,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 350, 540, 40));
 
-        jPanel9.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel9.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
         jPanel9.setLayout(jPanel9Layout);
@@ -418,7 +418,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 300, 540, 40));
 
-        jPanel10.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel10.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel10Layout = new javax.swing.GroupLayout(jPanel10);
         jPanel10.setLayout(jPanel10Layout);
@@ -449,7 +449,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 250, 540, 40));
 
-        jPanel11.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel11.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel11Layout = new javax.swing.GroupLayout(jPanel11);
         jPanel11.setLayout(jPanel11Layout);
@@ -480,7 +480,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 200, 540, 40));
 
-        jPanel12.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel12.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel12Layout = new javax.swing.GroupLayout(jPanel12);
         jPanel12.setLayout(jPanel12Layout);
@@ -511,7 +511,13 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 150, 540, 40));
 
-        jPanel13.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel13.setBackground(new java.awt.Color(102, 102, 102));
+
+        jRadioAmarillo10.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jRadioAmarillo10ActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel13Layout = new javax.swing.GroupLayout(jPanel13);
         jPanel13.setLayout(jPanel13Layout);
@@ -542,7 +548,7 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel1.add(jPanel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 50, 540, 40));
 
-        jPanel14.setBackground(new java.awt.Color(0, 0, 0));
+        jPanel14.setBackground(new java.awt.Color(102, 102, 102));
 
         javax.swing.GroupLayout jPanel14Layout = new javax.swing.GroupLayout(jPanel14);
         jPanel14.setLayout(jPanel14Layout);
@@ -557,12 +563,12 @@ public class FrmJuego extends javax.swing.JFrame {
                 .addComponent(jRadiorojo9)
                 .addGap(2, 2, 2)
                 .addComponent(jRadioAmarillo9)
-                .addContainerGap(403, Short.MAX_VALUE))
+                .addContainerGap(431, Short.MAX_VALUE))
         );
         jPanel14Layout.setVerticalGroup(
             jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel14Layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addContainerGap(10, Short.MAX_VALUE)
                 .addGroup(jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jRadioAzul9)
                     .addComponent(jRadioVerde9)
@@ -575,16 +581,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel7.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul9.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul9.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul9.setEnabled(false);
 
-        jRdbPistaAmarillo9.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo9.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo9.setEnabled(false);
 
-        jRdbPistaVerde9.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde9.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde9.setEnabled(false);
 
-        jRdbPistaRojo9.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo9.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo9.setEnabled(false);
 
         javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
@@ -626,16 +632,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel15.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul.setEnabled(false);
 
-        jRdbPistaAmarillo.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo.setEnabled(false);
 
-        jRdbPistaVerde.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde.setEnabled(false);
 
-        jRdbPistaRojo.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo.setEnabled(false);
 
         javax.swing.GroupLayout jPanel15Layout = new javax.swing.GroupLayout(jPanel15);
@@ -672,16 +678,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel16.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul1.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul1.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul1.setEnabled(false);
 
-        jRdbPistaAmarillo1.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo1.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo1.setEnabled(false);
 
-        jRdbPistaVerde1.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde1.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde1.setEnabled(false);
 
-        jRdbPistaRojo1.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo1.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo1.setEnabled(false);
 
         javax.swing.GroupLayout jPanel16Layout = new javax.swing.GroupLayout(jPanel16);
@@ -718,16 +724,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel17.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul2.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul2.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul2.setEnabled(false);
 
-        jRdbPistaAmarillo2.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo2.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo2.setEnabled(false);
 
-        jRdbPistaVerde2.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde2.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde2.setEnabled(false);
 
-        jRdbPistaRojo2.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo2.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo2.setEnabled(false);
 
         javax.swing.GroupLayout jPanel17Layout = new javax.swing.GroupLayout(jPanel17);
@@ -764,16 +770,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel18.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul3.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul3.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul3.setEnabled(false);
 
-        jRdbPistaAmarillo3.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo3.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo3.setEnabled(false);
 
-        jRdbPistaVerde3.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde3.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde3.setEnabled(false);
 
-        jRdbPistaRojo3.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo3.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo3.setEnabled(false);
 
         javax.swing.GroupLayout jPanel18Layout = new javax.swing.GroupLayout(jPanel18);
@@ -808,16 +814,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel19.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul4.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul4.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul4.setEnabled(false);
 
-        jRdbPistaAmarillo4.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo4.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo4.setEnabled(false);
 
-        jRdbPistaVerde4.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde4.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde4.setEnabled(false);
 
-        jRdbPistaRojo4.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo4.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo4.setEnabled(false);
 
         javax.swing.GroupLayout jPanel19Layout = new javax.swing.GroupLayout(jPanel19);
@@ -854,16 +860,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel20.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul5.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul5.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul5.setEnabled(false);
 
-        jRdbPistaAmarillo5.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo5.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo5.setEnabled(false);
 
-        jRdbPistaVerde5.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde5.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde5.setEnabled(false);
 
-        jRdbPistaRojo5.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo5.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo5.setEnabled(false);
 
         javax.swing.GroupLayout jPanel20Layout = new javax.swing.GroupLayout(jPanel20);
@@ -900,16 +906,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel21.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul6.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul6.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul6.setEnabled(false);
 
-        jRdbPistaAmarillo6.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo6.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo6.setEnabled(false);
 
-        jRdbPistaVerde6.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde6.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde6.setEnabled(false);
 
-        jRdbPistaRojo6.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo6.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo6.setEnabled(false);
 
         javax.swing.GroupLayout jPanel21Layout = new javax.swing.GroupLayout(jPanel21);
@@ -946,16 +952,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel22.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul7.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul7.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul7.setEnabled(false);
 
-        jRdbPistaAmarillo7.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo7.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo7.setEnabled(false);
 
-        jRdbPistaVerde7.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde7.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde7.setEnabled(false);
 
-        jRdbPistaRojo7.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo7.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo7.setEnabled(false);
 
         javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
@@ -992,16 +998,16 @@ public class FrmJuego extends javax.swing.JFrame {
 
         jPanel23.setBackground(new java.awt.Color(0, 0, 0));
 
-        jRdbPistaAzul8.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAzul8.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAzul8.setEnabled(false);
 
-        jRdbPistaAmarillo8.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaAmarillo8.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaAmarillo8.setEnabled(false);
 
-        jRdbPistaVerde8.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaVerde8.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaVerde8.setEnabled(false);
 
-        jRdbPistaRojo8.setBackground(new java.awt.Color(0, 0, 204));
+        jRdbPistaRojo8.setBackground(new java.awt.Color(0, 51, 153));
         jRdbPistaRojo8.setEnabled(false);
 
         javax.swing.GroupLayout jPanel23Layout = new javax.swing.GroupLayout(jPanel23);
@@ -1108,7 +1114,9 @@ public class FrmJuego extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 1146, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, 716, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1978,6 +1986,10 @@ public class FrmJuego extends javax.swing.JFrame {
         GenerarColores();
         inhabilitar();
     }//GEN-LAST:event_formWindowActivated
+
+    private void jRadioAmarillo10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jRadioAmarillo10ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jRadioAmarillo10ActionPerformed
 
     public void setearcolores() {
         jRadioAzul.setBackground(Color.WHITE);
